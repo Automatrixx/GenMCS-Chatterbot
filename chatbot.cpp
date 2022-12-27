@@ -15,6 +15,8 @@
 #include <chrono>
 #include <ctime>
 
+#define test
+
 using namespace std;
 void color(int num);
 class Voice{
